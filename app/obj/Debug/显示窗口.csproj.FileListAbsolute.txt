@@ -1,0 +1,10 @@
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\显示窗口.csprojAssemblyReference.cache
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\测试控件.Form1.resources
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\显示窗口.Properties.Resources.resources
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\显示窗口.csproj.GenerateResource.cache
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\显示窗口.csproj.CoreCompileInputs.cache
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\bin\Debug\显示窗口.exe.config
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\bin\Debug\显示窗口.exe
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\bin\Debug\显示窗口.pdb
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\显示窗口.exe
+C:\Users\a5299\gitrepos\my-plugin\显示窗口\obj\Debug\显示窗口.pdb

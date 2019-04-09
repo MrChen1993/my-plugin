@@ -1,0 +1,21 @@
+{
+	"name" : "MrChen",
+	"version" : "1.0.1",
+	"description" : "测试chrome插件",
+	"background" : { 
+        "scripts": ["background.js"] 
+    },
+	"permissions" : [
+		"nativeMessaging",
+		"tabs",
+		"http://localhost:8080/*"
+	],
+	"content_scripts": [
+    {
+      "matches": ["http://localhost:8080/*"],
+      "js": ["content.js"]
+    }
+	],
+	"minimum_chrome_version" : "6.0.0.0",
+	"manifest_version": 2
+}

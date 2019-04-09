@@ -1,0 +1,7 @@
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\bin\Debug\bootstrap.exe.config
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\bin\Debug\bootstrap.exe
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\bin\Debug\bootstrap.pdb
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\obj\Debug\bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\obj\Debug\bootstrap.exe
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\obj\Debug\bootstrap.pdb
+C:\Users\a5299\gitrepos\my-plugin\bootstrap\obj\Debug\bootstrap.csprojAssemblyReference.cache
